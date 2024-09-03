@@ -1,6 +1,6 @@
 "use strict";
 
-document.getElementById("nameId").textContent = "nhima/ist1007567"
+document.getElementById("nameId").textContent = "Nhima / CT1007567"
 
 //Dynamic background color change
 const color = ['#F0E68C', '#FFDAB9', '#FFE4B5', '#D8BFD8', '#B0E0E6', '#AFEEEE', '#E0FFFF', '#98FB98', '#FFDEAD', '#F5DEB3'];
