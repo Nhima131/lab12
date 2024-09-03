@@ -1,6 +1,6 @@
 "use strict";
 
-document.getElementById("nameId").textContent = "Washington / 77777777"
+document.getElementById("nameId").textContent = "nhima/ist1007567"
 
 //Dynamic background color change
 const color = ['#F0E68C', '#FFDAB9', '#FFE4B5', '#D8BFD8', '#B0E0E6', '#AFEEEE', '#E0FFFF', '#98FB98', '#FFDEAD', '#F5DEB3'];
@@ -17,7 +17,7 @@ var input = document.getElementById("input"), // input/output button
   result = document.getElementById("result"), // equal button
   clear = document.getElementById("clear"), // clear button
   resultDisplayed = false; // flag to keep an eye on what output is displayed
-
+localStorage
 // adding click handlers to number buttons
 for (var i = 0; i < number.length; i++) {
   number[i].addEventListener("click", function (e) {
